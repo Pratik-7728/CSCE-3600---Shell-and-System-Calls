@@ -1,10 +1,10 @@
 /*
-*Course: CSCE 3600 - System Programming
-*Assignment: Major Assignment 1
-*File: parity.c
-*Description: Computes the parity of a 32-bit unsigned integer using 
-*             bitwise operations.
-*	      It will return 0 for even parity and 1 for odd parity.
+Course: CSCE 3600 - System Programming
+Assignment: Major Assignment 1
+File: parity.c
+Description: Computes the parity of a 32-bit unsigned integer using 
+             bitwise operations.
+	     It will return 0 for even parity and 1 for odd parity.
 */
 
 #include "major1.h"
